@@ -21,3 +21,32 @@
     - Neco na styl ?
     - Angularek ?
   - Na Ruby asi hodit bobek ?
+
+
+  Use Case 1:
+  Vyplnuju kazdej den...
+  To nekdy jindy
+
+  Use Case 2:
+  Vyplnuju prvniho :0
+
+  Features:
+  - moznost subscribe na prichod do prace +- pul hodina s moznosti mute
+  - pocitadlo odmakanejch hodin
+  - aktualizovatelnej seznam ukolu
+    - z redmine nebo csv
+  - svatky ?
+  - nuceny dovoleny / prekazky
+  - kdyz si zadas kolik mas dovoleny tak ukazovat remaining
+  - nacte prichod / odchod do novyho zaznamu
+  - vyberes co si delal
+  - kdyz toho bylo vic, muzes dat split
+    - to rozdeli den na pul a prida dalsi ukol na ten samej den
+    - validace individualnich lidi
+  - admin / vyhodnocovaci sekce
+    - bude to chodit realtime
+    - zelenat dashboard jak je to hotovy
+    - popripade popohanet lajdaky mejlem
+    - scitat vsechny hodiny na projekty
+    - generovat zpatky vysledny odb
+    - validace vsech   
