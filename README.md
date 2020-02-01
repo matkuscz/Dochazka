@@ -10,3 +10,14 @@
   - Mrte pluginu ...
 - [Webpack](https://webpack.js.org/guides/getting-started/) - bundler
 - [Cmder](https://cmder.net/) - protoze defaultni Windows terminal je 'nechutna, oskliva vec'
+
+
+
+- Dalsi srandy:
+  - DB
+    - Mongo ?
+  - Frontend
+    - React
+    - Neco na styl ?
+    - Angularek ?
+  - Na Ruby asi hodit bobek ?
