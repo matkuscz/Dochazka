@@ -11,6 +11,22 @@
 - [Webpack](https://webpack.js.org/guides/getting-started/) - bundler
 - [Cmder](https://cmder.net/) - protoze defaultni Windows terminal je 'nechutna, oskliva vec'
 
+## Start appky:
+```
+git clone Dochazka
+cd Dochazka
+npm install
+```
+- Dale pro Windows
+```
+set DEBUG=Dochazka:* & npm start
+```
+- Pro Lino
+```
+DEBUG=Dochazka:* npm start
+```
+Proste to bere ohled na promennou prostredi
+
 
 
 - Dalsi srandy:
